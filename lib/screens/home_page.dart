@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quize_application/quize_page.dart';
+import 'package:quize_application/screens/quize_page.dart';
 
 class HomeWidget extends StatelessWidget {
   const HomeWidget({Key? key}) : super(key: key);
