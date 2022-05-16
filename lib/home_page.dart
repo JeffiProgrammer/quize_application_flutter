@@ -29,7 +29,7 @@ class HomeWidget extends StatelessWidget {
               onPressed: () {
                 Navigator.of(context).push(
                   MaterialPageRoute(
-                    builder: (context) => QuizePage(),
+                    builder: (context) => QuizPage(),
                   ),
                 );
               },

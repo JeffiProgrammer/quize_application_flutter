@@ -16,7 +16,5 @@ List<Question> getQuestionsList() {
   secondQuestion.imageNameNumber = '2';
   secondQuestion.currectAnswer = 0;
   secondQuestion.asnwerList = ['هند (شوروی سابق)', 'چین', 'آمریکا', 'روسیه'];
-  return [
-    firstQuestion,secondQuestion
-  ];
+  return [firstQuestion, secondQuestion];
 }
